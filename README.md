@@ -1,5 +1,7 @@
 🎮 Games Launcher – a stylish game launcher for Windows
 
+[⬇️ Go to Download](#download-section)
+
 Hi! 👋 This is my first programming project, created with great passion and nightly coding sessions. I wanted to create something that would make managing and launching games a truly enjoyable experience – with smooth animations, a clean design, and clever little features that I've always missed in other tools.
 
 Since this is my debut project, I'm sure there's room for improvement. If you have ideas for new features, spotted a bug, or simply want to suggest an improvement – ​​please contact me! I'd love to continue developing Games Launcher with the community's help.
@@ -70,7 +72,7 @@ Example:
 ```bash
 python -m PyInstaller --clean --noconsole --onefile --name "GRY" --hidden-import=psutil --hidden-import=pythoncom --hidden-import=pywintypes --hidden-import=win32timezone --hidden-import=icoextract --collect-submodules win32com --collect-all PIL --collect-all icoextract GRY.py
 ```
-## Download
+## Download <a name="download-section"></a>
 **Suggested**> You can download the compiled ready `.exe` file from [Google Drive](https://drive.google.com/file/d/1aGEXUS5mM01ou7JT8N00c5GxQqn6wJyd/view?usp=sharing).
 
 **Alternatively**> (note: PyInstaller required) You can download the `GAMES.py` file from [Google Drive](https://drive.google.com/file/d/1bJxfXT3ZQGM1CQpycDVmEt3cL7kk1Oep/view?usp=sharing).
