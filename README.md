@@ -82,6 +82,8 @@ You can download the `source code` file from [Google Drive](https://drive.google
 
 You can download the `readme` file from [Google Drive](https://drive.google.com/file/d/12LYoeNZ6erTKVA2MckVLEPyoOOh0Zmmn/view?usp=sharing).
 
+You can download the `all in one` zip file from [Google Drive](https://drive.google.com/file/d/1UDXXlpSiRary1y7c3_VpbP5nqR6iPbEi/view?usp=sharing).
+
 
 *****Games Launcher Screenshot*****: <a name="GamesLauncherScreenshot-section"></a>
 ![Tekst alternatywny](https://github.com/Emett-S/Games-Launcher/blob/d24e7949992bf66210d9df34fce61062198ae713/Games%20Launcher%20Screenshot_0.png)
