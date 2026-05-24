@@ -71,8 +71,11 @@ Example:
 python -m PyInstaller --clean --noconsole --onefile --name "GRY" --hidden-import=psutil --hidden-import=pythoncom --hidden-import=pywintypes --hidden-import=win32timezone --hidden-import=icoextract --collect-submodules win32com --collect-all PIL --collect-all icoextract GRY.py
 ```
 ## Download
-You can download the compiled exe `.exe` file from [Google Drive](https://drive.google.com/file/d/1aGEXUS5mM01ou7JT8N00c5GxQqn6wJyd/view?usp=sharing).
-You can download the GAMES.py file from [Google Drive](https://drive.google.com/file/d/1bJxfXT3ZQGM1CQpycDVmEt3cL7kk1Oep/view?usp=sharing).
-You can download the source code file from [Google Drive](https://drive.google.com/file/d/1gblu50UZz0h5z64bRjRnG7evxHx6Fj6P/view?usp=sharing).
-You can download the readme file from [Google Drive](https://drive.google.com/file/d/12LYoeNZ6erTKVA2MckVLEPyoOOh0Zmmn/view?usp=sharing).
+You can download the compiled `.exe` file from [Google Drive](https://drive.google.com/file/d/1aGEXUS5mM01ou7JT8N00c5GxQqn6wJyd/view?usp=sharing).
+
+You can download the `GAMES.py` file from [Google Drive](https://drive.google.com/file/d/1bJxfXT3ZQGM1CQpycDVmEt3cL7kk1Oep/view?usp=sharing).
+
+You can download the `source code` file from [Google Drive](https://drive.google.com/file/d/1gblu50UZz0h5z64bRjRnG7evxHx6Fj6P/view?usp=sharing).
+
+You can download the `readme` file from [Google Drive](https://drive.google.com/file/d/12LYoeNZ6erTKVA2MckVLEPyoOOh0Zmmn/view?usp=sharing).
 
