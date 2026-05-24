@@ -2,6 +2,8 @@
 
 [⬇️ Go to Download](#download-section)
 
+[⬇️ Go to Games Launcher Screenshot](#GamesLauncherScreenshot-section)
+
 Hi! 👋 This is my first programming project, created with great passion and nightly coding sessions. I wanted to create something that would make managing and launching games a truly enjoyable experience – with smooth animations, a clean design, and clever little features that I've always missed in other tools.
 
 Since this is my debut project, I'm sure there's room for improvement. If you have ideas for new features, spotted a bug, or simply want to suggest an improvement – ​​please contact me! I'd love to continue developing Games Launcher with the community's help.
@@ -80,3 +82,10 @@ You can download the `source code` file from [Google Drive](https://drive.google
 
 You can download the `readme` file from [Google Drive](https://drive.google.com/file/d/12LYoeNZ6erTKVA2MckVLEPyoOOh0Zmmn/view?usp=sharing).
 
+
+**Games Launcher Screenshot**: ## Games Launcher Screenshot <a name="GamesLauncherScreenshot-section"></a>
+![Tekst alternatywny](https://github.com/Emett-S/Games-Launcher/blob/d24e7949992bf66210d9df34fce61062198ae713/Games%20Launcher%20Screenshot_0.png)
+
+![Tekst alternatywny](https://github.com/Emett-S/Games-Launcher/blob/d24e7949992bf66210d9df34fce61062198ae713/Games%20Launcher%20Screenshot_1.png)
+
+![Tekst alternatywny](https://github.com/Emett-S/Games-Launcher/blob/d24e7949992bf66210d9df34fce61062198ae713/Games%20Launcher%20Screenshot_2.png)
