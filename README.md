@@ -73,7 +73,8 @@ python -m PyInstaller --clean --noconsole --onefile --name "(filename)" --hidden
 Example:
 `python -m PyInstaller --clean --noconsole --onefile --name "GRY" --hidden-import=psutil --hidden-import=pythoncom --hidden-import=pywintypes --hidden-import=win32timezone --hidden-import=icoextract --collect-submodules win32com --collect-all PIL --collect-all icoextract GRY.py
 `
-## Download <a name="download-section"></a>
+## Download
+⚠️Please, if you can, share this repository further so that the project can thrive - it's very important to me!⚠️ <a name="download-section"></a>
 **Suggested**> You can download the compiled ready `.exe` file from [Google Drive](https://drive.google.com/file/d/1aGEXUS5mM01ou7JT8N00c5GxQqn6wJyd/view?usp=sharing).
 
 **Alternatively**> (note: PyInstaller required) You can download the `GAMES.py` file from [Google Drive](https://drive.google.com/file/d/1bJxfXT3ZQGM1CQpycDVmEt3cL7kk1Oep/view?usp=sharing).
